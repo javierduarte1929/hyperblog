@@ -27,7 +27,7 @@ body
 #container
 {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
@@ -49,5 +49,5 @@ body
     background: #777;
     color: white;
     text-align: center;
-    padding:05em;
+    padding: 05em;
 }
